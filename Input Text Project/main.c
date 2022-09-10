@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
-*This program recieves and outputs texts
+*This program receives and outputs texts
 *and returns 0
 */
 
